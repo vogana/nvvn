@@ -4,3 +4,6 @@ DOMAIN-SUFFIX,immortalwrt.org
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,immortalwrt.org
+
+DOMAIN-SUFFIX,disney.api.edge.bamgrid.com
+DOMAIN-SUFFIX,disney.com
