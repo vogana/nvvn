@@ -3,7 +3,8 @@
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
-DOMAIN-SUFFIX,lanzov.com
+DOMAIN,24260922.xyz,🟢 直连
+IP-CIDR,192.168.2.0/24,🟢 直连
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,24260922.xyz
 DOMAIN-SUFFIX,fn.24260922.xyz
